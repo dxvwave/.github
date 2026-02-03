@@ -10,8 +10,8 @@ I'm diving deep into the world of **microservices architecture** – building st
 
 This isn't just another pet project gathering dust. I'm creating a full microservices ecosystem from scratch, focusing on:
 
-- 🐍 **Python-powered services** – because life's too short for verbose code
-- 🔌 **gRPC communication** – fast, efficient, and type-safe
+- 🐍 **Python services** – building backend services and APIs
+- 🔌 **gRPC** – for inter-service communication
 - 🏗️ **Enterprise-level patterns** – learning to build things that actually scale
 - 🧪 **Real-world challenges** – tackling the problems that keep senior devs awake at night
 
@@ -23,9 +23,3 @@ If you're here, you're probably:
 - Maybe learning the same stuff and want to see how someone else does it
 
 Feel free to explore, learn, or even drop some wisdom if you see something that could be better. We're all learning here! 🚀
-
-## Let's Connect
-
-Got questions? Found something interesting? Want to share your own learning journey? I'm all ears! Check out the repositories and don't be shy about opening issues or discussions.
-
-Happy coding! ✨
